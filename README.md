@@ -1,8 +1,5 @@
+ <img width="480" height="480" alt="merged" src="https://github.com/user-attachments/assets/d955cdfa-66da-4a71-83b4-d87d9bd7e415" />
 # blue-custom-nwg-dock
-
-
-
- 
 It is a bash based script which use SOCAT to enable nwg-dock-hyprland to auto hide only when a window is active by reading workspace activity
 
 
