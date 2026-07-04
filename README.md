@@ -1,4 +1,6 @@
- <img width="480" height="480" alt="merged" src="https://github.com/user-attachments/assets/d955cdfa-66da-4a71-83b4-d87d9bd7e415" />
+<img width="1366" height="763" alt="dock-hidden" src="https://github.com/user-attachments/assets/1f7f9956-05dc-46e0-8f70-2c26feb0039d" />
+<img width="1361" height="765" alt="dock" src="https://github.com/user-attachments/assets/65a30821-54a2-40ce-b3a6-ae339ab28d2e" />
+
 
 
 
